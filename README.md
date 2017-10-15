@@ -2,6 +2,14 @@
 
 a vue keyboard component
 
+### Install
+
+```bash
+npm install vue-keyboard2 -S
+
+yarn install vue-keyboard2
+```
+
 ### Quickstart
 ```javascript
 require('vue-keyboard/dist/vue-keyboard.css');

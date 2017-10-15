@@ -1,6 +1,6 @@
 {
   "name": "vue-keyboard2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a vue keyboard component",
   "main": "dist/vue-keyboard.js",
   "scripts": {
