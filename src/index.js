@@ -1,3 +1,3 @@
 import keyboard from './keyboard.vue';
 
-export { keyboard };
+export default keyboard;

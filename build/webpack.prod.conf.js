@@ -25,6 +25,7 @@ module.exports = merge(baseWebapckConfig, {
         path: config.sDist,
         library: 'VueKeyboard',
         libraryTarget: 'umd',
+        libraryExport: 'default',
         filename: 'vue-keyboard.js'
     },
     module: {

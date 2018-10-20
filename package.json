@@ -1,6 +1,6 @@
 {
   "name": "vue-keyboard2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a vue keyboard component",
   "main": "dist/vue-keyboard.js",
   "scripts": {
@@ -50,7 +50,7 @@
     "vue-loader": "^11.1.4",
     "vue-style-loader": "^2.0.0",
     "vue-template-compiler": "2.4.4",
-    "webpack": "^2.7.0",
+    "webpack": "^3.12.0",
     "webpack-config": "^6.2.1",
     "webpack-merge": "^0.15.0"
   }

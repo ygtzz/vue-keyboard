@@ -1,4 +1,4 @@
-const { keyboard } = VueKeyboard;
+const keyboard = VueKeyboard;
 
 new Vue({
   name:'c-app',

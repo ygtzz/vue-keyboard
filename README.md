@@ -15,13 +15,13 @@ yarn install vue-keyboard2
 require('vue-keyboard/dist/vue-keyboard.css');
 
 // in ES6 modules
-import { keyboard } from 'vue-keyboard';
+import keyboard from 'vue-keyboard';
 
 // in CommonJS
-const { keyboard } = require('vue-keyboard');
+const keyboard = require('vue-keyboard');
 
 // in Global variable
-const { keyboard } = VueKeyboard;
+const keyboard = VueKeyboard;
 
 Vue.component('c-keyboard',keyboard);
 ```
